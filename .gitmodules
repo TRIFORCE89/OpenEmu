@@ -9,7 +9,7 @@
 	url = git@github.com:OpenEmu/FCEU-Core.git
 [submodule "Gambatte"]
 	path = Gambatte
-	url = git@github.com:OpenEmu/Gambatte-Core.git
+	url = git@github.com:TRIFORCE89/Gambatte-Core.git
 [submodule "GenesisPlus"]
 	path = GenesisPlus
 	url = git@github.com:OpenEmu/GenesisPlus-Core.git
@@ -21,7 +21,7 @@
 	url = git@github.com:OpenEmu/Mupen64Plus-Core.git
 [submodule "Nestopia"]
 	path = Nestopia
-	url = git@github.com:OpenEmu/Nestopia-Core.git
+	url = git@github.com:TRIFORCE89/Nestopia-Core.git
 [submodule "SNES9x"]
 	path = SNES9x
 	url = git@github.com:OpenEmu/SNES9x-Core.git
@@ -31,6 +31,9 @@
 [submodule "picodrive"]
 	path = picodrive
 	url = git@github.com:OpenEmu/picodrive.git
+[submodule "Higan"]
+	path = Higan
+	url = git@github.com:TRIFORCE89/Higan-Core.git
 [submodule "PPSSPP"]
 	path = PPSSPP
 	url = git@github.com:OpenEmu/PPSSPP-Core.git
